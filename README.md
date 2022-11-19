@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Java and Web Development**
+- 🌱 I’m currently learning **Java, Python and Web Development**
 
 - 👨‍💻 My coding files are available at [https://github.com/FarheenKouser/100dayscodechallenge](https://github.com/FarheenKouser/100dayscodechallenge)
 
