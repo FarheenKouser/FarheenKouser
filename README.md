@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Python and Web Development**
 
-- 👨‍💻 My coding files are available at [https://github.com/FarheenKouser/100dayscodechallenge](https://github.com/FarheenKouser/100dayscodechallenge)
+- 👨‍💻 My coding files are available at [https://github.com/FarheenKouser/100DaysOfCodeChallenge](https://github.com/FarheenKouser/100DaysOfCodeChallenge)
 
 - 📫 How to reach me **kouserheen425@gmail.com**
 
